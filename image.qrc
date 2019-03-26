@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logout.png</file>
+        <file>recycle.png</file>
+        <file>code.png</file>
+    </qresource>
+</RCC>
